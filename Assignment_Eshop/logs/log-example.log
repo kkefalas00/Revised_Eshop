@@ -1,0 +1,292 @@
+2022-11-21 09:13:08.341 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 09:13:08.400 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 09:13:08.435 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 09:13:08.470 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 09:49:09.405 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 09:49:09.419 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 09:49:09.424 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 09:49:09.429 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:09:07.046 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 10:09:07.059 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:09:07.062 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:09:07.066 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:09:07.081 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:09:07.084 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:09:07.088 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:27:33.804 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 10:27:33.815 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:27:33.818 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:27:33.822 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:27:33.833 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:27:33.836 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:27:33.840 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:28:25.271 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 10:28:25.283 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:28:25.287 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:28:25.290 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:28:25.304 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:28:25.307 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:28:25.312 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:31:20.720 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 10:31:20.755 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:31:20.784 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:31:20.811 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:31:20.825 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:31:20.829 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:31:20.832 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:31:20.844 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:31:20.847 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:31:20.851 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:31:20.864 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:31:20.867 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:31:20.870 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:42:41.642 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 10:42:41.673 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:42:41.699 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:42:41.728 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 10:42:41.742 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:42:41.746 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:42:41.749 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 10:42:41.760 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:42:41.764 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:42:41.767 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 10:42:41.779 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:42:41.782 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 10:42:41.786 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 11:48:09.791 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 11:48:09.814 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:48:09.817 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:48:09.820 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:49:58.280 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 11:49:58.294 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:49:58.298 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:49:58.301 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:51:37.716 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 11:51:37.729 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:51:37.732 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:51:37.735 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:55:51.688 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 11:55:51.715 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:55:51.718 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:55:51.722 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:56:52.188 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 11:56:52.211 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:56:52.215 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:56:52.218 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:58:02.387 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 11:58:02.412 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:58:02.416 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 11:58:02.420 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:19:26.304 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 12:19:26.316 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:19:26.319 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:19:26.322 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:21:52.243 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 12:21:52.255 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:21:52.258 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:21:52.262 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:24:46.543 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 12:24:46.555 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:24:46.558 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:24:46.561 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:32:35.981 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 12:32:35.993 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:32:35.997 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:32:36.001 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:45:20.328 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 12:45:20.355 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:45:20.360 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:45:20.364 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:55:15.451 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 12:55:15.485 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:55:15.510 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:55:15.536 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 12:55:15.551 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 12:55:15.555 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 12:55:15.559 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 12:55:15.572 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 12:55:15.575 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 12:55:15.579 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 12:55:15.590 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 12:55:15.594 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 12:55:15.598 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 15:24:14.360 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 15:32:32.244 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 15:32:32.258 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 15:32:32.261 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 15:32:32.264 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 15:52:12.304 ERROR ADVANLAP324 - [           main]                     c.A.E.Main : Problem with sql:Unknown database 'assignment_2'
+2022-11-21 15:52:59.740 ERROR ADVANLAP324 - [           main]                     c.A.E.Main : Problem with sql:Unknown database 'assignment_2'
+2022-11-21 15:53:55.662 ERROR ADVANLAP324 - [           main]                     c.A.E.Main : Problem with sql:Unknown database 'assignment_2'
+2022-11-21 15:55:14.952 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 15:55:14.985 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 15:55:15.010 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 15:55:15.036 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 15:55:15.050 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 15:55:15.053 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 15:55:15.056 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 15:55:15.068 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 15:55:15.072 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 15:55:15.075 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 15:55:15.086 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 15:55:15.091 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 15:55:15.093 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:28:29.665 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 19:28:29.730 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:28:29.770 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:28:29.811 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:28:29.835 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:28:29.841 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:28:29.846 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:28:29.871 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:28:29.881 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:28:29.887 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:28:29.914 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:28:29.921 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:28:29.928 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:36:17.542 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 19:36:17.628 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:36:17.681 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:36:17.728 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:36:17.754 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:36:17.759 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:36:17.764 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:36:17.783 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:36:17.788 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:36:17.793 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:36:17.815 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:36:17.820 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:36:17.825 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:48:35.878 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 19:48:35.958 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:48:36.010 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:48:36.050 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:48:36.072 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:48:36.077 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:48:36.081 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:48:36.104 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:48:36.109 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:48:36.115 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:48:36.129 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:48:36.133 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:48:36.138 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:52:56.349 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 19:52:56.409 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:52:56.448 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:52:56.500 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:52:56.525 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:52:56.530 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:52:56.535 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:52:56.554 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:52:56.560 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:52:56.565 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:52:56.587 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:52:56.592 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:52:56.597 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:59:38.846 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 19:59:38.915 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:59:38.955 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:59:38.999 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 19:59:39.024 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:59:39.029 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:59:39.033 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 19:59:39.049 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:59:39.053 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:59:39.062 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 19:59:39.082 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:59:39.087 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 19:59:39.094 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:06:26.995 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 20:06:27.066 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:06:27.104 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:06:27.147 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:06:27.172 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:06:27.177 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:06:27.181 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:06:27.198 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:06:27.202 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:06:27.208 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:06:27.237 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:06:27.242 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:06:27.247 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:10:50.198 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 20:10:50.252 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:10:50.306 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:10:50.348 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:10:50.370 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:10:50.377 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:10:50.382 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:10:50.400 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:10:50.405 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:10:50.409 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:10:50.429 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:10:50.435 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:10:50.440 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:14:25.073 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 20:14:25.153 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:14:25.193 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:14:25.231 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 20:14:25.256 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:14:25.260 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:14:25.265 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 20:14:25.284 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:14:25.289 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:14:25.294 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 20:14:25.314 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:14:25.319 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 20:14:25.323 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:03:58.889 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 21:03:58.963 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:03:59.022 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:03:59.076 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:03:59.111 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:03:59.119 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:03:59.124 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:03:59.147 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:03:59.152 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:03:59.157 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:03:59.187 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:03:59.193 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:03:59.198 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:08:16.445 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 21:15:53.344 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 21:15:53.416 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:15:53.481 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:15:53.580 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:15:53.612 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:15:53.618 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:15:53.623 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:15:53.648 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:15:53.653 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:15:53.661 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:15:53.684 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:15:53.689 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:15:53.694 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:24:02.243 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 21:24:02.313 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:24:02.366 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:24:02.416 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:24:02.443 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:24:02.450 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:24:02.455 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:24:02.473 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:24:02.482 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:24:02.488 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:24:02.512 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:24:02.517 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:24:02.523 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:28:58.670 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 21:28:58.764 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:28:58.871 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:28:58.937 INFO  ADVANLAP324 - [           main]     c.A.E.R.DatabaseRepository : 0
+2022-11-21 21:28:58.968 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:28:58.973 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:28:58.979 INFO  ADVANLAP324 - [           main]     c.A.E.R.CustomerRepository : customer is inserted
+2022-11-21 21:28:59.004 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:28:59.010 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:28:59.015 INFO  ADVANLAP324 - [           main]        c.A.E.R.OrderRepository : order is inserted
+2022-11-21 21:28:59.043 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:28:59.048 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 21:28:59.053 INFO  ADVANLAP324 - [           main]      c.A.E.R.ProductRepository : product is inserted
+2022-11-21 22:03:12.043 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
+2022-11-21 22:06:57.642 INFO  ADVANLAP324 - [           main]                     c.A.E.Main : Connected
